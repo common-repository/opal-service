@@ -1,0 +1,1854 @@
+# Copyright (C) 2023 WPOPAL
+# This file is distributed under the GNU/GPLv3 http://www.gnu.org/licenses/gpl-3.0.html.
+msgid ""
+msgstr ""
+"Project-Id-Version: Opal Service 1.9.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/opal-service\n"
+"POT-Creation-Date: 2023-01-18 04:00:15+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: WPOPAL Team <help@wpopal.com>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: inc/vendors/kingcomposer/elements.php:100
+#: inc/vendors/kingcomposer/elements.php:209
+#: inc/vendors/kingcomposer/elements.php:465
+#: inc/vendors/visualcomposer/class-vc-elements.php:108
+#: inc/vendors/visualcomposer/class-vc-elements.php:347
+#: inc/vendors/visualcomposer/class-vc-elements.php:473
+msgid "4"
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:109
+#: inc/vendors/kingcomposer/elements.php:252
+#: inc/vendors/visualcomposer/class-vc-elements.php:183
+#: inc/vendors/visualcomposer/class-vc-elements.php:289
+#: inc/vendors/visualcomposer/class-vc-elements.php:402
+msgid "10"
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:421
+msgid "100"
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:320
+#: inc/vendors/visualcomposer/class-vc-elements.php:445
+msgid "3000"
+msgstr ""
+
+#: inc/admin/register-settings.php:70
+msgid "Settings"
+msgstr ""
+
+#: inc/admin/register-settings.php:94 inc/vendors/elementor/service.php:207
+#: inc/vendors/elementor/servicecarousel.php:252
+msgid "General"
+msgstr ""
+
+#: inc/admin/register-settings.php:95
+msgid "Page View"
+msgstr ""
+
+#: inc/admin/register-settings.php:97
+msgid "Add-ons"
+msgstr ""
+
+#: inc/admin/register-settings.php:101
+msgid "Licenses"
+msgstr ""
+
+#: inc/admin/register-settings.php:162
+msgid "General Settings"
+msgstr ""
+
+#: inc/admin/register-settings.php:166
+msgid "Slug Link Setting"
+msgstr ""
+
+#: inc/admin/register-settings.php:172
+msgid "Slug service"
+msgstr ""
+
+#: inc/admin/register-settings.php:173
+msgid ""
+"You can change slug name of service link . (e.g: "
+"http://localhost/wordpress/<span style=\"color:red;\" "
+">service</span>/jane-done/)<br> the <span style=\"color:red;\" "
+">service</span> is slug name"
+msgstr ""
+
+#: inc/admin/register-settings.php:180
+msgid "Slug category service"
+msgstr ""
+
+#: inc/admin/register-settings.php:181
+msgid ""
+"You can change slug name of category service link . (e.g: "
+"http://localhost/wordpress/<span style=\"color:red;\" "
+">category-service</span>/jane-done/)<br> the <span style=\"color:red;\" "
+">category-service</span> is slug name"
+msgstr ""
+
+#: inc/admin/register-settings.php:195
+msgid "Page View Settings"
+msgstr ""
+
+#: inc/admin/register-settings.php:199
+msgid "Page Service Settings"
+msgstr ""
+
+#: inc/admin/register-settings.php:206
+msgid "Service page view"
+msgstr ""
+
+#: inc/admin/register-settings.php:207
+msgid "Choose the way to display your menu items within menu Page."
+msgstr ""
+
+#: inc/admin/register-settings.php:211
+msgid "Grid"
+msgstr ""
+
+#: inc/admin/register-settings.php:212
+msgid "List"
+msgstr ""
+
+#: inc/admin/register-settings.php:217
+msgid "Column Service page"
+msgstr ""
+
+#: inc/admin/register-settings.php:218
+msgid "Choose the way to display your menu items within menu page."
+msgstr ""
+
+#: inc/admin/register-settings.php:226 inc/vendors/kingcomposer/elements.php:69
+#: inc/vendors/kingcomposer/elements.php:221
+#: inc/vendors/kingcomposer/elements.php:386
+#: inc/vendors/visualcomposer/class-vc-elements.php:134
+#: inc/vendors/visualcomposer/class-vc-elements.php:260
+#: inc/vendors/visualcomposer/class-vc-elements.php:360
+msgid "Image Size"
+msgstr ""
+
+#: inc/admin/register-settings.php:228 inc/vendors/kingcomposer/elements.php:71
+#: inc/vendors/kingcomposer/elements.php:223
+#: inc/vendors/kingcomposer/elements.php:388
+msgid ""
+"Thumbnail (default 150px x 150px max)<br>Medium resolution (default 300px x "
+"300px max)<br>Large resolution (default 640px x 640px max)<br>Full "
+"resolution (original size uploaded)<br>Other resolutions"
+msgstr ""
+
+#: inc/admin/register-settings.php:241
+#: inc/vendors/elementor/servicecarousel.php:129
+#: inc/vendors/kingcomposer/elements.php:84
+#: inc/vendors/kingcomposer/elements.php:236
+#: inc/vendors/kingcomposer/elements.php:405
+#: inc/vendors/visualcomposer/class-vc-elements.php:152
+#: inc/vendors/visualcomposer/class-vc-elements.php:274
+#: inc/vendors/visualcomposer/class-vc-elements.php:378
+msgid "Other Image Size"
+msgstr ""
+
+#: inc/admin/register-settings.php:244 inc/vendors/kingcomposer/elements.php:86
+#: inc/vendors/kingcomposer/elements.php:238
+#: inc/vendors/kingcomposer/elements.php:407
+#: inc/vendors/visualcomposer/class-vc-elements.php:154
+#: inc/vendors/visualcomposer/class-vc-elements.php:276
+#: inc/vendors/visualcomposer/class-vc-elements.php:380
+msgid ""
+"the set Image size for all image service , example: 150x150. is width = "
+"150px and height = 150px"
+msgstr ""
+
+#: inc/admin/register-settings.php:245 inc/vendors/kingcomposer/elements.php:87
+#: inc/vendors/kingcomposer/elements.php:239
+#: inc/vendors/kingcomposer/elements.php:408
+#: inc/vendors/visualcomposer/class-vc-elements.php:155
+#: inc/vendors/visualcomposer/class-vc-elements.php:277
+#: inc/vendors/visualcomposer/class-vc-elements.php:381
+msgid "150x150"
+msgstr ""
+
+#: inc/admin/register-settings.php:249
+msgid "Show Thumnail"
+msgstr ""
+
+#: inc/admin/register-settings.php:250
+msgid "Choose the way to display thumbnail on items page."
+msgstr ""
+
+#: inc/admin/register-settings.php:254 inc/admin/register-settings.php:265
+#: inc/admin/register-settings.php:277 inc/admin/register-settings.php:289
+#: inc/admin/register-settings.php:301
+msgid "No"
+msgstr ""
+
+#: inc/admin/register-settings.php:255 inc/admin/register-settings.php:266
+#: inc/admin/register-settings.php:278 inc/admin/register-settings.php:290
+#: inc/admin/register-settings.php:302
+#: inc/vendors/visualcomposer/class-vc-elements.php:128
+#: inc/vendors/visualcomposer/class-vc-elements.php:167
+#: inc/vendors/visualcomposer/class-vc-elements.php:175
+#: inc/vendors/visualcomposer/class-vc-elements.php:195
+#: inc/vendors/visualcomposer/class-vc-elements.php:297
+#: inc/vendors/visualcomposer/class-vc-elements.php:355
+#: inc/vendors/visualcomposer/class-vc-elements.php:393
+#: inc/vendors/visualcomposer/class-vc-elements.php:414
+#: inc/vendors/visualcomposer/class-vc-elements.php:422
+#: inc/vendors/visualcomposer/class-vc-elements.php:431
+#: inc/vendors/visualcomposer/class-vc-elements.php:438
+msgid "Yes"
+msgstr ""
+
+#: inc/admin/register-settings.php:260 inc/vendors/elementor/service.php:138
+#: inc/vendors/elementor/servicecarousel.php:174
+#: inc/vendors/kingcomposer/elements.php:115
+#: inc/vendors/kingcomposer/elements.php:258
+#: inc/vendors/visualcomposer/class-vc-elements.php:164
+#: inc/vendors/visualcomposer/class-vc-elements.php:411
+msgid "Show Category"
+msgstr ""
+
+#: inc/admin/register-settings.php:261
+msgid "Choose the way to display category on items page."
+msgstr ""
+
+#: inc/admin/register-settings.php:272 inc/vendors/elementor/service.php:148
+#: inc/vendors/elementor/servicecarousel.php:184
+#: inc/vendors/kingcomposer/elements.php:125
+#: inc/vendors/kingcomposer/elements.php:268
+#: inc/vendors/visualcomposer/class-vc-elements.php:172
+#: inc/vendors/visualcomposer/class-vc-elements.php:390
+msgid "Show Description"
+msgstr ""
+
+#: inc/admin/register-settings.php:273
+msgid "Choose the way to display description on items page."
+msgstr ""
+
+#: inc/admin/register-settings.php:284
+msgid "Show View Detail"
+msgstr ""
+
+#: inc/admin/register-settings.php:285
+msgid "Choose the way to display View Detail button on items page."
+msgstr ""
+
+#: inc/admin/register-settings.php:296
+msgid "Show Number"
+msgstr ""
+
+#: inc/admin/register-settings.php:297
+msgid "Choose the way to display Number on items page."
+msgstr ""
+
+#: inc/admin/register-settings.php:307 inc/vendors/elementor/service.php:156
+#: inc/vendors/elementor/servicecarousel.php:192
+#: inc/vendors/kingcomposer/elements.php:106
+#: inc/vendors/kingcomposer/elements.php:249
+#: inc/vendors/kingcomposer/elements.php:418
+#: inc/vendors/visualcomposer/class-vc-elements.php:180
+#: inc/vendors/visualcomposer/class-vc-elements.php:286
+#: inc/vendors/visualcomposer/class-vc-elements.php:399
+msgid "Description Max Chars"
+msgstr ""
+
+#: inc/admin/register-settings.php:308
+msgid "the set number max character for description service on items page."
+msgstr ""
+
+#: inc/admin/register-settings.php:346
+#: inc/vendors/cmb2/libraries/includes/CMB2_Options_Hookup.php:143
+msgid "Settings updated."
+msgstr ""
+
+#: inc/admin/register-settings.php:559
+msgid "Global Default"
+msgstr ""
+
+#: inc/admin/register-settings.php:649
+msgid "Save Settings"
+msgstr ""
+
+#: inc/admin/register-settings.php:687
+msgid "Deactivate License"
+msgstr ""
+
+#: inc/admin/register-settings.php:724
+msgid ""
+"API keys allow users to use the <a href=\"%s\">Opalservice REST API</a> to "
+"retrieve donation data in JSON or XML for external applications or devices, "
+"such as <a href=\"%s\">Zapier</a>."
+msgstr ""
+
+#: inc/class-opalservice-customizer.php:42
+msgid "Service Settings"
+msgstr ""
+
+#: inc/class-opalservice-customizer.php:44
+msgid "Set Service layout display in varials style and design"
+msgstr ""
+
+#: inc/class-opalservice-customizer.php:60
+msgid "Archive Sidebar Position"
+msgstr ""
+
+#: inc/class-opalservice-customizer.php:61
+#: inc/class-opalservice-customizer.php:90
+msgid ""
+"Set sidebar's default position. Can either be: right, left, both or none. "
+"Note: this can be overridden on individual pages."
+msgstr ""
+
+#: inc/class-opalservice-customizer.php:68
+#: inc/class-opalservice-customizer.php:97
+msgid "Right sidebar"
+msgstr ""
+
+#: inc/class-opalservice-customizer.php:69
+#: inc/class-opalservice-customizer.php:98
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/class-opalservice-customizer.php:70
+#: inc/class-opalservice-customizer.php:99
+msgid "Left & Right sidebars"
+msgstr ""
+
+#: inc/class-opalservice-customizer.php:71
+#: inc/class-opalservice-customizer.php:100
+msgid "No sidebar"
+msgstr ""
+
+#: inc/class-opalservice-customizer.php:89
+msgid "Single Sidebar Position"
+msgstr ""
+
+#: inc/class-opalservice-shortcodes.php:31
+msgid "Carousel Service"
+msgstr ""
+
+#: inc/class-opalservice-shortcodes.php:32
+#: inc/vendors/kingcomposer/elements.php:24
+#: inc/vendors/kingcomposer/elements.php:169
+#: inc/vendors/visualcomposer/class-vc-elements.php:75
+#: inc/vendors/visualcomposer/class-vc-elements.php:317
+msgid "List Service"
+msgstr ""
+
+#: inc/class-opalservice-shortcodes.php:33
+msgid "Tabs Service"
+msgstr ""
+
+#: inc/class-opalservice-shortcodes.php:34
+msgid "Categories Service"
+msgstr ""
+
+#: inc/class-opalservice-widgets.php:11
+msgid "Right Sidebar Service"
+msgstr ""
+
+#: inc/class-opalservice-widgets.php:13
+msgid "Right sidebar service widget area"
+msgstr ""
+
+#: inc/class-opalservice-widgets.php:21
+msgid "Left Sidebar Service"
+msgstr ""
+
+#: inc/class-opalservice-widgets.php:23
+msgid "Left sidebar service widget area"
+msgstr ""
+
+#: inc/post-types/class-posttype-service.php:42
+#: inc/post-types/class-posttype-service.php:43
+#: inc/post-types/class-posttype-service.php:48
+msgid "Services"
+msgstr ""
+
+#: inc/post-types/class-posttype-service.php:44
+msgid "Add Service"
+msgstr ""
+
+#: inc/post-types/class-posttype-service.php:45
+msgid "Add New Service"
+msgstr ""
+
+#: inc/post-types/class-posttype-service.php:46
+msgid "Edit Service"
+msgstr ""
+
+#: inc/post-types/class-posttype-service.php:47
+msgid "New Service"
+msgstr ""
+
+#: inc/post-types/class-posttype-service.php:49
+msgid "View Service"
+msgstr ""
+
+#: inc/post-types/class-posttype-service.php:50
+msgid "Search Service"
+msgstr ""
+
+#: inc/post-types/class-posttype-service.php:51
+msgid "No Service found"
+msgstr ""
+
+#: inc/post-types/class-posttype-service.php:52
+msgid "No Service found in Trash"
+msgstr ""
+
+#: inc/post-types/class-posttype-service.php:54
+msgid "Opal Services"
+msgstr ""
+
+#: inc/post-types/class-posttype-service.php:82
+#: inc/vendors/elementor/service.php:379
+#: inc/vendors/elementor/servicecarousel.php:396
+#: inc/vendors/taxonomy_image.php:39 inc/vendors/taxonomy_image.php:68
+msgid "Image"
+msgstr ""
+
+#: inc/post-types/class-posttype-service.php:111
+msgid "Management"
+msgstr ""
+
+#: inc/post-types/class-posttype-service.php:130
+msgid "Upload Icon"
+msgstr ""
+
+#: inc/post-types/class-posttype-service.php:131
+msgid "You can upload icon image or select icon by fontpicker bellow"
+msgstr ""
+
+#: inc/post-types/class-posttype-service.php:137
+msgid "Select Icon "
+msgstr ""
+
+#: inc/taxonomies/class-taxomony-tags.php:34
+#: inc/taxonomies/class-taxomony-tags.php:44
+msgid "Tags"
+msgstr ""
+
+#: inc/taxonomies/class-taxomony-tags.php:35
+msgid "Tag"
+msgstr ""
+
+#: inc/taxonomies/class-taxomony-tags.php:36
+msgid "Search Tags"
+msgstr ""
+
+#: inc/taxonomies/class-taxomony-tags.php:37
+msgid "All Tags"
+msgstr ""
+
+#: inc/taxonomies/class-taxomony-tags.php:38
+msgid "Parent Tag"
+msgstr ""
+
+#: inc/taxonomies/class-taxomony-tags.php:39
+msgid "Parent Tag:"
+msgstr ""
+
+#: inc/taxonomies/class-taxomony-tags.php:40
+msgid "Edit Tag"
+msgstr ""
+
+#: inc/taxonomies/class-taxomony-tags.php:41
+msgid "Update Tag"
+msgstr ""
+
+#: inc/taxonomies/class-taxomony-tags.php:42
+msgid "Add New Tag"
+msgstr ""
+
+#: inc/taxonomies/class-taxomony-tags.php:43
+msgid "New Tag"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-category-service.php:33
+#: inc/taxonomies/class-taxonomy-category-service.php:36
+#: inc/taxonomies/class-taxonomy-category-service.php:43
+#: inc/taxonomies/class-taxonomy-category-service.php:51
+msgid "Service Categories"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-category-service.php:34
+msgid "Service Category"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-category-service.php:35
+msgid "Search Category Service"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-category-service.php:37
+msgid "Parent Service Category"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-category-service.php:38
+msgid "Parent Service Category:"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-category-service.php:39
+msgid "Edit Service Category"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-category-service.php:40
+msgid "Update Service Category"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-category-service.php:41
+msgid "Add New ServiceCategory"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-category-service.php:42
+msgid "New ServiceCategory Name"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-category-service.php:50
+#: inc/vendors/elementor/service.php:88
+#: inc/vendors/elementor/servicecarousel.php:99
+msgid "Categories"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-category-service.php:52
+msgid "Add New Service Category"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-category-service.php:53
+msgid "New Service Category"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/agent_info.php:27
+msgid "Phone"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/agent_info.php:42
+msgid "Email"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/agent_info.php:47
+msgid "View Profile"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/agent_info.php:49
+msgid "View all Properties"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/map/map.php:53
+msgid "Latitude"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/map/map.php:63
+msgid "Longitude"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/switch/switch.php:29
+msgid "YES"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/switch/switch.php:30
+msgid "NO"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/upload/media-avatar-tpl.php:22
+msgid "Update Profile Picture"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/upload/media-avatar-tpl.php:24
+msgid "*minimum 270px x 270px"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/upload/media-tpl.php:35
+msgid "Delete this image"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/upload/media-tpl.php:38
+msgid "Set featured image"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/upload/media-tpl.php:56
+msgid "Drag and drop images here"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/upload/media-tpl.php:58
+msgid "or"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/upload/media-tpl.php:60
+msgid "Select Images"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/upload/upload.php:53
+#: inc/vendors/cmb2/custom-fields/upload/upload.php:113
+#: inc/vendors/cmb2/custom-fields/user_upload/user_upload.php:47
+msgid "Security check failed!"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/upload/upload.php:192
+#: inc/vendors/cmb2/custom-fields/user_upload/user_upload.php:150
+msgid "Valid file formats"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/upload/upload.php:193
+#: inc/vendors/cmb2/custom-fields/user_upload/user_upload.php:151
+msgid "Please enter only digits"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/upload/upload.php:234
+msgid "Could not delete this?"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/upload/upload.php:246
+#: inc/vendors/cmb2/custom-fields/upload/upload.php:272
+msgid "Deleted this done"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/upload/upload.php:257
+msgid "Could not found this in the collection?"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/upload/upload.php:262
+msgid "The post is not owned by this user?"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/user/user.php:45
+msgid "As an author, you can add other users to your office."
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/user/user.php:47
+msgid "Add someone to your office, please enter extractly username in below input:"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/user/user.php:55
+msgid "add"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/user/user.php:74
+#: inc/vendors/cmb2/custom-fields/user/user.php:89
+msgid "Are you sure to delete this"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/user/user.php:74
+#: inc/vendors/cmb2/custom-fields/user/user.php:89
+#: inc/vendors/cmb2/libraries/includes/CMB2_JS.php:236
+#: inc/vendors/cmb2/libraries/includes/CMB2_Types.php:408
+#: inc/vendors/cmb2/libraries/includes/types/CMB2_Type_File_Base.php:84
+msgid "Remove"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/user_upload/user_upload.php:120
+#: inc/vendors/cmb2/custom-fields/user_upload/user_upload.php:184
+msgid "Delete"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:115
+msgid "Test Metabox"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:148
+#: inc/vendors/cmb2/libraries/example-functions.php:492
+msgid "Test Text"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:149
+#: inc/vendors/cmb2/libraries/example-functions.php:162
+#: inc/vendors/cmb2/libraries/example-functions.php:175
+#: inc/vendors/cmb2/libraries/example-functions.php:182
+#: inc/vendors/cmb2/libraries/example-functions.php:195
+#: inc/vendors/cmb2/libraries/example-functions.php:203
+#: inc/vendors/cmb2/libraries/example-functions.php:212
+#: inc/vendors/cmb2/libraries/example-functions.php:220
+#: inc/vendors/cmb2/libraries/example-functions.php:235
+#: inc/vendors/cmb2/libraries/example-functions.php:243
+#: inc/vendors/cmb2/libraries/example-functions.php:251
+#: inc/vendors/cmb2/libraries/example-functions.php:268
+#: inc/vendors/cmb2/libraries/example-functions.php:277
+#: inc/vendors/cmb2/libraries/example-functions.php:293
+#: inc/vendors/cmb2/libraries/example-functions.php:300
+#: inc/vendors/cmb2/libraries/example-functions.php:307
+#: inc/vendors/cmb2/libraries/example-functions.php:332
+#: inc/vendors/cmb2/libraries/example-functions.php:345
+#: inc/vendors/cmb2/libraries/example-functions.php:358
+#: inc/vendors/cmb2/libraries/example-functions.php:370
+#: inc/vendors/cmb2/libraries/example-functions.php:384
+#: inc/vendors/cmb2/libraries/example-functions.php:392
+#: inc/vendors/cmb2/libraries/example-functions.php:401
+#: inc/vendors/cmb2/libraries/example-functions.php:408
+#: inc/vendors/cmb2/libraries/example-functions.php:422
+#: inc/vendors/cmb2/libraries/example-functions.php:493
+#: inc/vendors/cmb2/libraries/example-functions.php:583
+#: inc/vendors/cmb2/libraries/example-functions.php:591
+#: inc/vendors/cmb2/libraries/example-functions.php:598
+#: inc/vendors/cmb2/libraries/example-functions.php:605
+#: inc/vendors/cmb2/libraries/example-functions.php:612
+#: inc/vendors/cmb2/libraries/example-functions.php:619
+#: inc/vendors/cmb2/libraries/example-functions.php:626
+#: inc/vendors/cmb2/libraries/example-functions.php:652
+#: inc/vendors/cmb2/libraries/example-functions.php:660
+#: inc/vendors/cmb2/libraries/example-functions.php:667
+#: inc/vendors/cmb2/libraries/example-functions.php:716
+msgid "field description (optional)"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:161
+msgid "Test Text Small"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:174
+msgid "Test Text Medium"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:181
+msgid "Read-only Disabled Field"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:185
+msgid "Hey there, I'm a read-only field"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:194
+msgid "Custom Rendered Field"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:202
+msgid "Website URL"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:211
+msgid "Test Text Email"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:219
+msgid "Test Time"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:227
+#: inc/vendors/cmb2/libraries/example-functions.php:228
+msgid "Time zone"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:234
+msgid "Test Date Picker"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:242
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:250
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:267
+msgid "Test Money"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:276
+msgid "Test Color Picker"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:292
+msgid "Test Text Area"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:299
+msgid "Test Text Area Small"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:306
+msgid "Test Text Area for Code"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:324
+msgid "Test Title Weeeee"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:325
+msgid "This is a title description"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:331
+msgid "Test Select"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:337
+#: inc/vendors/cmb2/libraries/example-functions.php:350
+#: inc/vendors/cmb2/libraries/example-functions.php:362
+msgid "Option One"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:338
+#: inc/vendors/cmb2/libraries/example-functions.php:351
+#: inc/vendors/cmb2/libraries/example-functions.php:363
+msgid "Option Two"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:339
+#: inc/vendors/cmb2/libraries/example-functions.php:352
+#: inc/vendors/cmb2/libraries/example-functions.php:364
+msgid "Option Three"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:344
+msgid "Test Radio inline"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:357
+msgid "Test Radio"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:369
+msgid "Test Taxonomy Radio"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:383
+msgid "Test Taxonomy Select"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:391
+msgid "Test Taxonomy Multi Checkbox"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:400
+msgid "Test Checkbox"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:407
+msgid "Test Multi Checkbox"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:413
+msgid "Check One"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:414
+msgid "Check Two"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:415
+msgid "Check Three"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:421
+msgid "Test wysiwyg"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:431
+msgid "Test Image"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:432
+msgid "Upload an image or enter a URL."
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:438
+msgid "Multiple Files"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:439
+msgid "Upload or add multiple images/attachments."
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:446
+msgid "oEmbed"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:449
+#. translators: %s: link to codex.wordpress.org/Embeds
+msgid "Enter a youtube, twitter, or instagram URL. Supports services listed at %s."
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:481
+msgid "About Page Metabox"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:511
+msgid "Repeating Field Group"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:519
+msgid "Generates reusable form entries"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:521
+msgid "Entry {#}"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:522
+msgid "Add Another Entry"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:523
+msgid "Remove Entry"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:537
+msgid "Entry Title"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:544
+#: inc/vendors/elementor/service.php:535
+#: inc/vendors/elementor/servicecarousel.php:552
+#: inc/vendors/kingcomposer/elements.php:30
+#: inc/vendors/kingcomposer/elements.php:175
+#: inc/vendors/visualcomposer/class-vc-elements.php:80
+#: inc/vendors/visualcomposer/class-vc-elements.php:322
+msgid "Description"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:545
+msgid "Write a short description for this entry"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:551
+msgid "Entry Image"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:557
+msgid "Image Caption"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:575
+msgid "User Profile Metabox"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:582
+#: inc/vendors/cmb2/libraries/example-functions.php:651
+msgid "Extra Info"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:590
+msgid "Avatar"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:597
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:604
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:611
+msgid "Google+ URL"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:618
+msgid "Linkedin URL"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:625
+msgid "User Field"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:644
+msgid "Category Metabox"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:659
+msgid "Term Image"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:666
+msgid "Arbitrary Term Field"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:685
+msgid "Theme Options"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:715
+msgid "Site Background Color"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:752
+msgid "%s &mdash; Updated!"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:784
+msgid "REST Test Box"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:793
+msgid "REST Test Text"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:794
+msgid "Will show in the REST API for this box and for pages."
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:800
+msgid "REST Editable Test Text"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/example-functions.php:801
+msgid "Will show in REST API \"editable\" contexts only (`POST` requests)."
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2.php:199
+msgid "Metabox configuration is required to have an ID parameter."
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2.php:609
+msgid "Click to toggle"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_Ajax.php:75
+msgid "Please Try Again"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_Ajax.php:181
+msgid "Remove Embed"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_Ajax.php:189
+#: inc/vendors/cmb2/libraries/includes/helper-functions.php:107
+#. translators: 1: results for. 2: link to codex.wordpress.org/Embeds
+msgid "No oEmbed Results Found for %1$s. View more info at %2$s."
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_Base.php:422
+msgid ""
+"The \"%1$s\" field parameter has been deprecated in favor of the \"%2$s\" "
+"parameter."
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_Base.php:426
+msgid ""
+"Using the \"%1$s\" field parameter as a callback has been deprecated in "
+"favor of the \"%2$s\" parameter."
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_Base.php:456
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s! %3$s"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_Base.php:458
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s with no alternative available."
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_Base.php:491
+#: inc/vendors/cmb2/libraries/includes/CMB2_Hookup_Base.php:102
+#: inc/vendors/cmb2/libraries/includes/CMB2_Options.php:247
+#: inc/vendors/cmb2/libraries/includes/CMB2_Options_Hookup.php:357
+#: inc/vendors/cmb2/libraries/includes/types/CMB2_Type_Base.php:173
+msgid "Invalid %1$s property: %2$s"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_Base.php:509
+#: inc/vendors/cmb2/libraries/includes/types/CMB2_Type_Base.php:157
+msgid "Invalid %1$s method: %2$s"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_Field.php:1438
+msgid "Add Group"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_Field.php:1439
+msgid "Remove Group"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_Field.php:1471
+#: inc/vendors/cmb2/libraries/includes/CMB2_Field.php:1475
+msgid "None"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_Field.php:1589
+msgid "Sorry, this field does not have a cmb_id specified."
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_Field_Display.php:453
+#: inc/vendors/cmb2/libraries/includes/CMB2_JS.php:237
+#: inc/vendors/cmb2/libraries/includes/types/CMB2_Type_File_Base.php:79
+msgid "File:"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_Hookup.php:188
+msgid ""
+"Term Metadata is a WordPress 4.4+ feature. Please upgrade your WordPress "
+"install."
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_Hookup.php:192
+msgid "Term metaboxes configuration requires a \"taxonomies\" parameter."
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_Hookup.php:550
+msgid "Toggle panel: %s"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_Hookup_Base.php:44
+msgid "%1$s should be implemented by the extended class."
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_JS.php:172
+#: inc/vendors/cmb2/libraries/includes/CMB2_JS.php:217
+msgid "Clear"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_JS.php:173
+msgid "Default"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_JS.php:174
+msgid "Select Color"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_JS.php:175
+msgid "Current Color"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_JS.php:208
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_JS.php:209
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_JS.php:210
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_JS.php:211
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_JS.php:212
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_JS.php:213
+msgid "Next"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_JS.php:214
+msgid "Prev"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_JS.php:215
+msgid "Today"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_JS.php:216
+#: inc/vendors/cmb2/libraries/includes/CMB2_JS.php:226
+msgid "Done"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_JS.php:220
+msgid "Choose Time"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_JS.php:221
+msgid "Time"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_JS.php:222
+msgid "Hour"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_JS.php:223
+msgid "Minute"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_JS.php:224
+msgid "Second"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_JS.php:225
+msgid "Now"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_JS.php:233
+msgid "Use this file"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_JS.php:234
+msgid "Use these files"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_JS.php:235
+#: inc/vendors/cmb2/libraries/includes/types/CMB2_Type_File_Base.php:64
+#: inc/vendors/taxonomy_image.php:44 inc/vendors/taxonomy_image.php:80
+msgid "Remove Image"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_JS.php:238
+#: inc/vendors/cmb2/libraries/includes/types/CMB2_Type_File_Base.php:82
+msgid "Download"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_JS.php:239
+msgid "Select / Deselect All"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_Options_Hookup.php:139
+msgid "Nothing to update."
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_Types.php:226
+msgid "Custom CMB2 field type classes must extend CMB2_Type_Base."
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_Types.php:344
+msgid "Add Row"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_Types.php:408
+msgid "Remove Row"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/helper-functions.php:307
+msgid "Save"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/rest-api/CMB2_REST_Controller.php:257
+msgid "This box does not have read permissions."
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/rest-api/CMB2_REST_Controller.php:277
+msgid "This box does not have write permissions."
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/rest-api/CMB2_REST_Controller.php:300
+msgid ""
+"No box found by that id. A box needs to be registered with the "
+"\"show_in_rest\" parameter configured."
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/rest-api/CMB2_REST_Controller.php:378
+msgid "A human-readable description of the object."
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/rest-api/CMB2_REST_Controller.php:385
+msgid "The id for the object."
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/rest-api/CMB2_REST_Controller.php:392
+msgid "The title for the object."
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/rest-api/CMB2_REST_Controller_Boxes.php:51
+msgid "Includes the registered fields for the box in the response."
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/rest-api/CMB2_REST_Controller_Boxes.php:72
+msgid ""
+"Includes the fully rendered attributes, 'form_open', 'form_close', as well "
+"as the enqueued 'js_dependencies' script handles, and 'css_dependencies' "
+"stylesheet handles."
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/rest-api/CMB2_REST_Controller_Boxes.php:122
+msgid "No boxes found."
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/rest-api/CMB2_REST_Controller_Fields.php:27
+msgid "Includes the box object which the fields are registered to in the response."
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/rest-api/CMB2_REST_Controller_Fields.php:30
+msgid ""
+"When the '_rendered' argument is passed, the renderable field attributes "
+"will be returned fully rendered. By default, the names of the callback "
+"handers for the renderable attributes will be returned."
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/rest-api/CMB2_REST_Controller_Fields.php:33
+#: inc/vendors/cmb2/libraries/includes/rest-api/CMB2_REST_Controller_Fields.php:36
+msgid ""
+"To view or modify the field's value, the 'object_id' and 'object_type' "
+"arguments are required."
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/rest-api/CMB2_REST_Controller_Fields.php:236
+msgid "CMB2 Field value cannot be updated without the value parameter specified."
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/rest-api/CMB2_REST_Controller_Fields.php:297
+msgid ""
+"CMB2 Field value cannot be modified without the object_id and object_type "
+"parameters specified."
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/rest-api/CMB2_REST_Controller_Fields.php:312
+#: inc/vendors/cmb2/libraries/includes/rest-api/CMB2_REST_Controller_Fields.php:341
+msgid "No field found by that id."
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/rest-api/CMB2_REST_Controller_Fields.php:415
+msgid "Value Error for %s"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/shim/WP_REST_Controller.php:25
+#. translators: %s: register_routes()
+msgid "Method '%s' must be overridden."
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/shim/WP_REST_Controller.php:35
+#: inc/vendors/cmb2/libraries/includes/shim/WP_REST_Controller.php:47
+#: inc/vendors/cmb2/libraries/includes/shim/WP_REST_Controller.php:59
+#: inc/vendors/cmb2/libraries/includes/shim/WP_REST_Controller.php:71
+#: inc/vendors/cmb2/libraries/includes/shim/WP_REST_Controller.php:83
+#: inc/vendors/cmb2/libraries/includes/shim/WP_REST_Controller.php:95
+#: inc/vendors/cmb2/libraries/includes/shim/WP_REST_Controller.php:107
+#: inc/vendors/cmb2/libraries/includes/shim/WP_REST_Controller.php:119
+#: inc/vendors/cmb2/libraries/includes/shim/WP_REST_Controller.php:131
+#: inc/vendors/cmb2/libraries/includes/shim/WP_REST_Controller.php:143
+#: inc/vendors/cmb2/libraries/includes/shim/WP_REST_Controller.php:155
+#: inc/vendors/cmb2/libraries/includes/shim/WP_REST_Controller.php:168
+msgid "Method '%s' not implemented. Must be overridden in subclass."
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/shim/WP_REST_Controller.php:273
+msgid "Current page of the collection."
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/shim/WP_REST_Controller.php:281
+msgid "Maximum number of items to be returned in result set."
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/shim/WP_REST_Controller.php:290
+msgid "Limit results to those matching a string."
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/shim/WP_REST_Controller.php:308
+msgid ""
+"Scope under which the request is made; determines fields present in "
+"response."
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/types/CMB2_Type_Counter_Base.php:50
+msgid "Words left"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/types/CMB2_Type_Counter_Base.php:51
+msgid "Words"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/types/CMB2_Type_Counter_Base.php:56
+msgid "Characters left"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/types/CMB2_Type_Counter_Base.php:57
+msgid "Characters"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/types/CMB2_Type_Counter_Base.php:62
+msgid "Your text may be truncated."
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/types/CMB2_Type_File.php:76
+msgid "Add or Upload File"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/types/CMB2_Type_File_List.php:41
+msgid "Add or Upload Files"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/types/CMB2_Type_Taxonomy_Base.php:115
+msgid "No terms"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Opal Service"
+msgstr ""
+
+#: inc/vendors/elementor/service.php:42
+#: inc/vendors/elementor/servicecarousel.php:54
+msgid "Query"
+msgstr ""
+
+#: inc/vendors/elementor/service.php:50
+#: inc/vendors/elementor/servicecarousel.php:62
+msgid "Style Item Layout"
+msgstr ""
+
+#: inc/vendors/elementor/service.php:60
+#: inc/vendors/elementor/servicecarousel.php:72
+msgid "Posts Per Page"
+msgstr ""
+
+#: inc/vendors/elementor/service.php:69
+#: inc/vendors/elementor/servicecarousel.php:81
+msgid "Columns"
+msgstr ""
+
+#: inc/vendors/elementor/service.php:98
+msgid "Columns Gap"
+msgstr ""
+
+#: inc/vendors/elementor/service.php:109
+#: inc/vendors/elementor/servicecarousel.php:141
+msgid "Display"
+msgstr ""
+
+#: inc/vendors/elementor/service.php:117
+#: inc/vendors/elementor/servicecarousel.php:149
+#: inc/vendors/kingcomposer/elements.php:135
+#: inc/vendors/kingcomposer/elements.php:288
+#: inc/vendors/visualcomposer/class-vc-elements.php:125
+#: inc/vendors/visualcomposer/class-vc-elements.php:352
+msgid "Show Thumbnail"
+msgstr ""
+
+#: inc/vendors/elementor/service.php:167
+#: inc/vendors/elementor/servicecarousel.php:203
+#: inc/vendors/kingcomposer/elements.php:144
+#: inc/vendors/kingcomposer/elements.php:278
+#: inc/vendors/visualcomposer/class-vc-elements.php:192
+#: inc/vendors/visualcomposer/class-vc-elements.php:294
+#: inc/vendors/visualcomposer/class-vc-elements.php:419
+msgid "Show Readmore"
+msgstr ""
+
+#: inc/vendors/elementor/service.php:176
+#: inc/vendors/elementor/servicecarousel.php:221
+msgid "Alignment"
+msgstr ""
+
+#: inc/vendors/elementor/service.php:182
+#: inc/vendors/elementor/servicecarousel.php:227
+msgid "Left"
+msgstr ""
+
+#: inc/vendors/elementor/service.php:186
+#: inc/vendors/elementor/servicecarousel.php:231
+msgid "Center"
+msgstr ""
+
+#: inc/vendors/elementor/service.php:190
+#: inc/vendors/elementor/servicecarousel.php:235
+msgid "Right"
+msgstr ""
+
+#: inc/vendors/elementor/service.php:214
+#: inc/vendors/elementor/servicecarousel.php:259
+msgid "Background"
+msgstr ""
+
+#: inc/vendors/elementor/service.php:233 inc/vendors/elementor/service.php:280
+#: inc/vendors/elementor/service.php:354 inc/vendors/elementor/service.php:387
+#: inc/vendors/elementor/service.php:451 inc/vendors/elementor/service.php:510
+#: inc/vendors/elementor/service.php:561 inc/vendors/elementor/service.php:621
+#: inc/vendors/elementor/servicecarousel.php:269
+#: inc/vendors/elementor/servicecarousel.php:308
+#: inc/vendors/elementor/servicecarousel.php:372
+#: inc/vendors/elementor/servicecarousel.php:404
+#: inc/vendors/elementor/servicecarousel.php:468
+#: inc/vendors/elementor/servicecarousel.php:527
+#: inc/vendors/elementor/servicecarousel.php:578
+#: inc/vendors/elementor/servicecarousel.php:638
+msgid "Padding"
+msgstr ""
+
+#: inc/vendors/elementor/service.php:244 inc/vendors/elementor/service.php:365
+#: inc/vendors/elementor/service.php:398 inc/vendors/elementor/service.php:462
+#: inc/vendors/elementor/service.php:521 inc/vendors/elementor/service.php:572
+#: inc/vendors/elementor/service.php:632
+#: inc/vendors/elementor/servicecarousel.php:280
+#: inc/vendors/elementor/servicecarousel.php:383
+#: inc/vendors/elementor/servicecarousel.php:415
+#: inc/vendors/elementor/servicecarousel.php:479
+#: inc/vendors/elementor/servicecarousel.php:538
+#: inc/vendors/elementor/servicecarousel.php:589
+#: inc/vendors/elementor/servicecarousel.php:649
+msgid "Margin"
+msgstr ""
+
+#: inc/vendors/elementor/service.php:264
+msgid "Content"
+msgstr ""
+
+#: inc/vendors/elementor/service.php:294
+#: inc/vendors/elementor/servicecarousel.php:322
+msgid "Icon"
+msgstr ""
+
+#: inc/vendors/elementor/service.php:302 inc/vendors/elementor/service.php:423
+#: inc/vendors/elementor/service.php:490 inc/vendors/elementor/service.php:550
+#: inc/vendors/elementor/service.php:601
+#: inc/vendors/elementor/servicecarousel.php:330
+#: inc/vendors/elementor/servicecarousel.php:440
+#: inc/vendors/elementor/servicecarousel.php:507
+#: inc/vendors/elementor/servicecarousel.php:567
+#: inc/vendors/elementor/servicecarousel.php:618
+msgid "Color"
+msgstr ""
+
+#: inc/vendors/elementor/service.php:313 inc/vendors/elementor/service.php:433
+#: inc/vendors/elementor/servicecarousel.php:341
+#: inc/vendors/elementor/servicecarousel.php:450
+msgid "Hover Color"
+msgstr ""
+
+#: inc/vendors/elementor/service.php:324
+#: inc/vendors/elementor/servicecarousel.php:352
+msgid "Icon Size"
+msgstr ""
+
+#: inc/vendors/elementor/service.php:412
+#: inc/vendors/elementor/servicecarousel.php:429
+msgid "Number"
+msgstr ""
+
+#: inc/vendors/elementor/service.php:475
+#: inc/vendors/elementor/servicecarousel.php:492
+#: inc/vendors/kingcomposer/elements.php:21
+#: inc/vendors/kingcomposer/elements.php:166
+#: inc/vendors/kingcomposer/elements.php:333
+#: inc/vendors/visualcomposer/class-vc-elements.php:72
+#: inc/vendors/visualcomposer/class-vc-elements.php:211
+#: inc/vendors/visualcomposer/class-vc-elements.php:314
+msgid "Title"
+msgstr ""
+
+#: inc/vendors/elementor/service.php:500 inc/vendors/elementor/service.php:611
+#: inc/vendors/elementor/servicecarousel.php:517
+#: inc/vendors/elementor/servicecarousel.php:628
+msgid "Color hover"
+msgstr ""
+
+#: inc/vendors/elementor/service.php:586
+#: inc/vendors/elementor/servicecarousel.php:603
+msgid "Button"
+msgstr ""
+
+#: inc/vendors/elementor/servicecarousel.php:19
+msgid "Opal Service Carousel"
+msgstr ""
+
+#: inc/vendors/elementor/servicecarousel.php:109
+msgid "Autoplay"
+msgstr ""
+
+#: inc/vendors/elementor/servicecarousel.php:117
+#: inc/vendors/kingcomposer/elements.php:316
+#: inc/vendors/visualcomposer/class-vc-elements.php:442
+msgid "Speed"
+msgstr ""
+
+#: inc/vendors/elementor/servicecarousel.php:212
+msgid "Show Pagination"
+msgstr ""
+
+#: inc/vendors/elementor/servicecarousel.php:300
+msgid "Content padding"
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:14
+#: inc/vendors/visualcomposer/class-vc-elements.php:64
+msgid "List Services"
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:17
+#: inc/vendors/kingcomposer/elements.php:162
+#: inc/vendors/kingcomposer/elements.php:329
+#: inc/vendors/kingcomposer/elements.php:443
+msgid "Elements"
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:23
+#: inc/vendors/kingcomposer/elements.php:168
+#: inc/vendors/kingcomposer/elements.php:335
+#: inc/vendors/visualcomposer/class-vc-elements.php:74
+#: inc/vendors/visualcomposer/class-vc-elements.php:213
+#: inc/vendors/visualcomposer/class-vc-elements.php:316
+msgid "The title of the Service List."
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:32
+#: inc/vendors/kingcomposer/elements.php:177
+#: inc/vendors/visualcomposer/class-vc-elements.php:82
+#: inc/vendors/visualcomposer/class-vc-elements.php:324
+msgid "The text description for your page."
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:38
+#: inc/vendors/kingcomposer/elements.php:183
+#: inc/vendors/kingcomposer/elements.php:342
+#: inc/vendors/visualcomposer/class-vc-elements.php:88
+#: inc/vendors/visualcomposer/class-vc-elements.php:220
+#: inc/vendors/visualcomposer/class-vc-elements.php:330
+msgid "By Categories"
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:40
+#: inc/vendors/kingcomposer/elements.php:58
+#: inc/vendors/kingcomposer/elements.php:185
+#: inc/vendors/kingcomposer/elements.php:344
+#: inc/vendors/kingcomposer/elements.php:353
+#: inc/vendors/visualcomposer/class-vc-elements.php:115
+#: inc/vendors/visualcomposer/class-vc-elements.php:231
+msgid "Layout of the page"
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:47
+#: inc/vendors/kingcomposer/elements.php:192
+#: inc/vendors/kingcomposer/elements.php:448
+#: inc/vendors/visualcomposer/class-vc-elements.php:97
+#: inc/vendors/visualcomposer/class-vc-elements.php:336
+#: inc/vendors/visualcomposer/class-vc-elements.php:462
+msgid "Column"
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:49
+#: inc/vendors/kingcomposer/elements.php:194
+#: inc/vendors/kingcomposer/elements.php:450
+#: inc/vendors/visualcomposer/class-vc-elements.php:99
+#: inc/vendors/visualcomposer/class-vc-elements.php:338
+#: inc/vendors/visualcomposer/class-vc-elements.php:464
+msgid "Number column of the page"
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:56
+#: inc/vendors/kingcomposer/elements.php:351
+#: inc/vendors/visualcomposer/class-vc-elements.php:113
+#: inc/vendors/visualcomposer/class-vc-elements.php:229
+msgid "Layouts"
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:97
+#: inc/vendors/kingcomposer/elements.php:206
+#: inc/vendors/kingcomposer/elements.php:375
+#: inc/vendors/kingcomposer/elements.php:462
+#: inc/vendors/visualcomposer/class-vc-elements.php:105
+#: inc/vendors/visualcomposer/class-vc-elements.php:252
+#: inc/vendors/visualcomposer/class-vc-elements.php:344
+#: inc/vendors/visualcomposer/class-vc-elements.php:470
+msgid "Limit"
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:99
+#: inc/vendors/kingcomposer/elements.php:208
+#: inc/vendors/kingcomposer/elements.php:377
+#: inc/vendors/kingcomposer/elements.php:464
+#: inc/vendors/visualcomposer/class-vc-elements.php:107
+#: inc/vendors/visualcomposer/class-vc-elements.php:254
+#: inc/vendors/visualcomposer/class-vc-elements.php:346
+#: inc/vendors/visualcomposer/class-vc-elements.php:472
+msgid "Number Limit of the page."
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:108
+#: inc/vendors/kingcomposer/elements.php:251
+#: inc/vendors/kingcomposer/elements.php:420
+#: inc/vendors/visualcomposer/class-vc-elements.php:182
+#: inc/vendors/visualcomposer/class-vc-elements.php:288
+#: inc/vendors/visualcomposer/class-vc-elements.php:401
+msgid "the set number max character for description service"
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:117
+#: inc/vendors/kingcomposer/elements.php:260
+#: inc/vendors/visualcomposer/class-vc-elements.php:166
+#: inc/vendors/visualcomposer/class-vc-elements.php:413
+msgid "Show the Category of the page."
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:119
+#: inc/vendors/kingcomposer/elements.php:129
+#: inc/vendors/kingcomposer/elements.php:139
+#: inc/vendors/kingcomposer/elements.php:148
+#: inc/vendors/kingcomposer/elements.php:262
+#: inc/vendors/kingcomposer/elements.php:272
+#: inc/vendors/kingcomposer/elements.php:282
+#: inc/vendors/kingcomposer/elements.php:292
+#: inc/vendors/kingcomposer/elements.php:302
+#: inc/vendors/kingcomposer/elements.php:311
+#: inc/vendors/kingcomposer/elements.php:431
+msgid "Yes, Please!"
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:127
+#: inc/vendors/kingcomposer/elements.php:270
+#: inc/vendors/visualcomposer/class-vc-elements.php:174
+#: inc/vendors/visualcomposer/class-vc-elements.php:392
+msgid "Show the Description of the page."
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:137
+#: inc/vendors/kingcomposer/elements.php:290
+#: inc/vendors/visualcomposer/class-vc-elements.php:127
+#: inc/vendors/visualcomposer/class-vc-elements.php:354
+msgid "Show the Thumbnail of the page."
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:146
+#: inc/vendors/kingcomposer/elements.php:280
+#: inc/vendors/visualcomposer/class-vc-elements.php:194
+#: inc/vendors/visualcomposer/class-vc-elements.php:296
+#: inc/vendors/visualcomposer/class-vc-elements.php:421
+msgid "Show the Readmore of the page."
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:159
+#: inc/vendors/visualcomposer/class-vc-elements.php:306
+msgid "Service Carousel Service"
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:299
+#: inc/vendors/visualcomposer/class-vc-elements.php:429
+msgid "Enable Button Navigation"
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:308
+#: inc/vendors/visualcomposer/class-vc-elements.php:436
+msgid "Enable Button Pagination"
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:318
+#: inc/vendors/visualcomposer/class-vc-elements.php:444
+msgid ""
+"Determines the duration of the transition in milliseconds.If less than 10, "
+"the number is interpreted as a speed (pixels/millisecond).This is probably "
+"desirable when scrolling items with variable sizes"
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:326
+#: inc/vendors/visualcomposer/class-vc-elements.php:203
+msgid "Service Tabs"
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:336
+#: inc/vendors/visualcomposer/class-vc-elements.php:214
+msgid "Our Services"
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:363
+#: inc/vendors/kingcomposer/elements.php:476
+#: inc/vendors/visualcomposer/class-vc-elements.php:240
+#: inc/vendors/visualcomposer/class-vc-elements.php:477
+msgid "Style"
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:365
+#: inc/vendors/visualcomposer/class-vc-elements.php:242
+msgid "Style of the page"
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:427
+msgid "Show Button Read More"
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:429
+msgid "Show button Read More of the page."
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:440
+#: inc/vendors/visualcomposer/class-vc-elements.php:454
+msgid "Category Service"
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:478
+#: inc/vendors/visualcomposer/class-vc-elements.php:479
+msgid "Select style"
+msgstr ""
+
+#: inc/vendors/taxonomy_image.php:43 inc/vendors/taxonomy_image.php:79
+msgid "Add Image"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:21
+msgid "Taxonomies"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:83
+msgid "The Description"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:136
+#: inc/vendors/visualcomposer/class-vc-elements.php:262
+#: inc/vendors/visualcomposer/class-vc-elements.php:362
+msgid ""
+"Enter image size. Example: thumbnail, medium, large, full or other sizes "
+"defined by current theme. Alternatively enter image size in pixels: 200x100 "
+"(Width x Height). Leave empty to use \"thumbnail\" size."
+msgstr ""
+
+#: inc/widgets/categoty_service.php:22
+msgid "Opal Category Services"
+msgstr ""
+
+#: inc/widgets/categoty_service.php:24
+msgid "Category Services widget."
+msgstr ""
+
+#: inc/widgets/categoty_service.php:54
+msgid "Category Services"
+msgstr ""
+
+#: inc/widgets/categoty_service.php:59 inc/widgets/sidebar_service.php:75
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/categoty_service.php:64 inc/widgets/sidebar_service.php:80
+msgid "Limit:"
+msgstr ""
+
+#: inc/widgets/sidebar_service.php:22
+msgid "Opal Sidebar Services"
+msgstr ""
+
+#: inc/widgets/sidebar_service.php:24
+msgid "Sidebar Services widget."
+msgstr ""
+
+#: inc/widgets/sidebar_service.php:66
+msgid "Sidebar Services"
+msgstr ""
+
+#: inc/widgets/sidebar_service.php:85
+msgid "Show icon"
+msgstr ""
+
+#: opalservice.php:109
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: templates/content-data-none.php:2
+msgid "data not yet available please insert or select configuration in the backend."
+msgstr ""
+
+#: templates/content-service-tabs.php:65
+msgid "Read More"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.wpopal.com/opalservice/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Create and maintain modern online menus for almost any kind of service."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WPOPAL"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.wpopal.com"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_JS.php:207
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: inc/vendors/cmb2/libraries/includes/CMB2_JS.php:227
+msgctxt ""
+"Valid formatting string, as per "
+"http://trentrichardson.com/examples/timepicker/"
+msgid "hh:mm TT"
+msgstr ""

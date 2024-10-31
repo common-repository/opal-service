@@ -1,0 +1,105 @@
+@font-face {
+  font-family: "consultek";
+  src: url("fonts/consultek.eot");
+  src: url("fonts/consultek.eot?#iefix") format("eot"), url("fonts/consultek.woff2") format("woff2"), url("fonts/consultek.woff") format("woff"), url("fonts/consultek.ttf") format("truetype"), url("fonts/consultek.svg#consultek") format("svg"); }
+
+[class*="lexus-icon-"]:before {
+  font-family: "consultek";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  text-decoration: none;
+  text-transform: none; }
+
+.opal-icon {
+  font-family: "consultek";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  text-decoration: none;
+  text-transform: none; }
+
+.lexus-icon-analystic:before {
+  content: ""; }
+
+.lexus-icon-chatsupport:before {
+  content: ""; }
+
+.lexus-icon-clients:before {
+  content: ""; }
+
+.lexus-icon-design:before {
+  content: ""; }
+
+.lexus-icon-download:before {
+  content: ""; }
+
+.lexus-icon-employee:before {
+  content: ""; }
+
+.lexus-icon-finance:before {
+  content: ""; }
+
+.lexus-icon-forum:before {
+  content: ""; }
+
+.lexus-icon-ideas:before {
+  content: ""; }
+
+.lexus-icon-info:before {
+  content: ""; }
+
+.lexus-icon-it:before {
+  content: ""; }
+
+.lexus-icon-left:before {
+  content: ""; }
+
+.lexus-icon-management:before {
+  content: ""; }
+
+.lexus-icon-office:before {
+  content: ""; }
+
+.lexus-icon-performance:before {
+  content: ""; }
+
+.lexus-icon-phone:before {
+  content: ""; }
+
+.lexus-icon-phonesupport:before {
+  content: ""; }
+
+.lexus-icon-play:before {
+  content: ""; }
+
+.lexus-icon-project:before {
+  content: ""; }
+
+.lexus-icon-protect:before {
+  content: ""; }
+
+.lexus-icon-range:before {
+  content: ""; }
+
+.lexus-icon-right:before {
+  content: ""; }
+
+.lexus-icon-scroll:before {
+  content: ""; }
+
+.lexus-icon-search:before {
+  content: ""; }
+
+.lexus-icon-strategy:before {
+  content: ""; }
+
+.lexus-icon-support:before {
+  content: ""; }
+
+.lexus-icon-tweet:before {
+  content: ""; }
